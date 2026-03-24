@@ -25,7 +25,7 @@
         <scoped_administration>false</scoped_administration>
         <short_description/>
         <source>x_ride_share</source>
-        <store_correlation_id>REPOAPP0000001001</store_correlation_id>
+        <store_correlation_id>REPOAPP0000001002</store_correlation_id>
         <store_url/>
         <subscription_entitlement/>
         <sys_class_name>sys_app</sys_class_name>
@@ -33,16 +33,16 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2026-03-23 15:12:18</sys_created_on>
         <sys_id>355858f59f333210cf983781990a1c86</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>4</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2026-03-24 20:24:47</sys_updated_on>
+        <sys_updated_on>2026-03-24 20:34:34</sys_updated_on>
         <template/>
         <trackable>true</trackable>
         <uninstall_blocked>false</uninstall_blocked>
         <user_role/>
         <vendor/>
         <vendor_prefix/>
-        <version>1.0.1</version>
+        <version>1.0.2</version>
     </sys_app>
     <sys_translated_text action="delete_multiple" query="documentkey=355858f59f333210cf983781990a1c86"/>
 </record_update>

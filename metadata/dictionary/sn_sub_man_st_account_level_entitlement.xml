@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="7ba8437b9f2f3210cf983781990a1c57" label="Account level entitlements" max_length="40" name="sn_sub_man_st_account_level_entitlement" type="collection">
+        <element label="Authorizer" max_length="40" name="x_ride_share_authorizer" type="string"/>
+    </element>
+</database>

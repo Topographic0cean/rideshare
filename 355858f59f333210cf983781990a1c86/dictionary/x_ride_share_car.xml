@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element attributes="enforce_dot_walk_cross_scope_access=true" db_object_id="ec681cf59f333210cf983781990a1c05" label="Car" max_length="40" name="x_ride_share_car" type="collection">
         <element label="Destination" max_length="128" name="destination" type="string"/>
+        <element label="Condtion" max_length="40" name="condtion" type="string"/>
         <element label="Evening Time" max_length="40" name="evening_time" type="glide_time"/>
         <element label="Passengers" max_length="40" name="passengers" type="integer"/>
         <element label="Morning Time" max_length="40" name="morning_time" type="glide_time"/>
